@@ -72,22 +72,18 @@
    .banner{
    
     display: flex;
-    /* justify-content: space-between; */
-    align-content: center;
+    justify-content: space-between;
+    /* align-content: center; */
+
 
     
    }
    .text-container{
-    width: 60%;
+    width: 70%;
   border: 2px solid gray;
-   align-items: end;
+  color: antiquewhite;
   
-   
-    
-   
-   color: antiquewhite;
-  
-   
+   /* margin-top: 40px; */
   
     /* height: 568px; */
 
@@ -96,6 +92,8 @@
     font-weight: 700;
     font-size: 4rem;
     border: 2px solid yellow;
+    position: relative;
+    margin-bottom: 20px;
  
     /* margin-top: 40px; */
     
@@ -111,27 +109,24 @@
     font-family: "Miama", sans-serif;
     font-size: 4.5rem;
     font-weight: 500;
-    position: relative;
+  
+   
    
     
    }
     .postion{
-    position: absolute;
-   
-    left: 5%;
-    bottom: 40%;
-   
-    
-
+    /* position: absolute; */
+  margin-bottom: 50px;
+   border: 1px solid;
+  /* position: relative;
+  bottom:  15%; */
+ 
    }
-   .postion2{
-    position: absolute;
-    top: 10%;
-   }
+   
    .btn-primary{
     display: flex;
     gap: 20px;
-    margin-top: 40px;
+    margin-top: 50px;
    }
    .btn-color{
    background-color: rgb(230, 83, 60);
