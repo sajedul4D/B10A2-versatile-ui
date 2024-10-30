@@ -196,10 +196,11 @@ color: rgb(226, 218, 218);
     margin: 0 auto;
     
    }
-   .section{
+   .section-one{
     margin-top: 100px;
+    background: #000;
    }
-   .text-section{
+   .text-section-two{
     text-align: center;
    }
    .text-head{
@@ -536,9 +537,7 @@ color: #ddd;
     margin: 0 auto;
     padding: 40px;
    }
-   @media screen and(min-width:576px) and(max-width:992px) {
-    
-   }
+  
    @media screen and (max-width:576px) {
 
     .banner{
