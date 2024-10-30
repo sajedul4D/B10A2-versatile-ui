@@ -196,12 +196,13 @@ color: rgb(226, 218, 218);
     margin: 0 auto;
     
    }
-   .section-one{
+   .section{
     margin-top: 100px;
     background: #000;
    }
-   .text-section-two{
+   .text-section{
     text-align: center;
+   
    }
    .text-head{
    font-family: sans-serif;
